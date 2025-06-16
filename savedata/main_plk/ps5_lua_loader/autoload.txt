@@ -18,4 +18,4 @@
 
 
 ps5_lua_menu.lua
-goldhen.bin
+#goldhen.bin
